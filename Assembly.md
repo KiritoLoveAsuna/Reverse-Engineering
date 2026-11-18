@@ -1,3 +1,7 @@
+### Little-Endian
+right-to-left
+### Big-Endian
+left-to-right
 ### Linux Syscall table
 https://filippo.io/linux-syscall-table
 ### Assembly
