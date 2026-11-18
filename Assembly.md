@@ -1,3 +1,10 @@
+### Datatypes
+| Component | Length | Example |
+|-----------|--------|---------|
+| `byte` | 8 bits | `0xab` |
+| `word` | 16 bits - 2 bytes | `0xabcd` |
+| `double word (dword)` | 32 bits - 4 bytes | `0xabcdef12` |
+| `quad word (qword)` | 64 bits - 8 bytes | `0xabcdef1234567890` |
 ### Little-Endian
 right-to-left
 ### Big-Endian
